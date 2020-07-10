@@ -350,5 +350,6 @@ MigrationBackup/
 .ionide/
 #MISC
 RawData - Live Payload.h
-*_stager.bin
-*x64.bin
+*.bin
+
+

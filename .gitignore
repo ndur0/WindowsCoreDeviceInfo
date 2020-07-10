@@ -348,3 +348,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+#MISC
+RawData - Live Payload.h
+*_stager.bin
+*x64.bin

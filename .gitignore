@@ -352,4 +352,5 @@ MigrationBackup/
 RawData - Live Payload.h
 *.bin
 *embed.cpp
-
+*source.h
+*info.rc

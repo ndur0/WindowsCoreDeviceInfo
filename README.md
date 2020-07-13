@@ -9,6 +9,8 @@ Must add payload to the RawData.h file
     // open in HxD editor, select all, edit, copy as -> C
     // paste between curly braces * dont forget to add the size ie: ENTER SIZE HERE
     
+dllmain.cpp has a 'Launcher' function to handle code injection.  I Opted for local APC NtTestAlert (QueueUserAPC) technique, however,
+this can be changed to something else.  
 
 All credit to Clement Labro (itm4n)  
 For more information:  
